@@ -9,5 +9,5 @@ I little bit about me <br>
 ⚡  In my free time, I enjoy hiking, cooking, and spending time with family.<br>
 💬 Let's have a Meet or Zoom call, feel free to pick a slot on <a href="https://calendly.com/lucasrichardsdev/30min">Calendly </a>to talk with me.<br>
 📫 You can drop me an email at lucasrichardsdev@gmail.com. It will be a pleasure to talk with you!<br>
-📄 Check my page to get to know me a little better.<br>
+📄 Check my  <a href="">page</a> to get to know me a little better.<br>
 
