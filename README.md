@@ -5,9 +5,9 @@
 ### Hi there 👋
 
 I little bit about me <br>
-:mate: As an engineer, I find great satisfaction in finding solutions to problems and optimizing processes. I'm always on the lookout for ways to automate repetitive tasks, allowing me to focus on adding value to the product. <br>
+:mate: I was born in Boston, Massachusetts, but I spent the majority of my life in Argentina 🇦🇷. While there, I studied Industrial Engineering and worked for one of the largest corporations in the world, AB-Inbev 🍺. I returned to the United States with the goal of staying up-to-date with the latest technologies and continuing to grow professionally. As an engineer, I find immense satisfaction in solving problems and optimizing processes. I am constantly searching for ways to automate repetitive tasks, freeing up time to focus on adding value to the final product. <br>
 🌱 I'm on track with learning more about new frameworks, AI, Data management, and Software Architecture.<br>
-⚡  In my free time, I enjoy hiking, cooking, and spending time with family.<br>
+⚡  In my free time, I enjoy surfing, cooking, and spending time with family.<br>
 💬 Let's have a Meet or Zoom call, feel free to pick a slot on <a href="https://calendly.com/lucasrichardsdev/30min">Calendly </a>to talk with me.<br>
 📫 You can drop me an email at lucasrichardsdev@gmail.com. It will be a pleasure to talk with you!<br>
 
